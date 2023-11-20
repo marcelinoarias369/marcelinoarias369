@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Marcelino Arias</h1>
-<h3 align="center">Soy un Fron-End Developer apasionado</h3>
+<h3 align="center">Soy un Front-End Developer apasionado</h3>
 
 - 🌱 Actualmente estoy aprendiendo **ReactJS**
 
