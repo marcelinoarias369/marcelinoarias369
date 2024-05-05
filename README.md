@@ -1,11 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Marcelino Arias</h1>
 <h3 align="center">Soy un Front-End Developer apasionado</h3>
 
-- 🌱 Actualmente estoy aprendiendo **ReactJS**
-
-- 💬 Preguntame sobre **HTML, CSS, JavaScript**
-
-- 📫 Como contactarme **marcelinoarias13@gmail.com**
+- 📫 Como contactarme **marcelinoarias369@proton.me**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
